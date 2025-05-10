@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm okeeajah
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+okeeajah's+GitHub!;Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovator)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+okeeajah's+GitHub!;Open+Source+Enthusiast;Tech+Innovator)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/okeeajah/okeeajah/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
