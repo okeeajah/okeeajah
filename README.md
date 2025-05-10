@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm okeeajah
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+okeeajah's+GitHub)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+Github+Okeeajah)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
 
