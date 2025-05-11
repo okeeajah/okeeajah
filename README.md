@@ -58,11 +58,8 @@
   <img src="https://komarev.com/ghpvc/?username=okeeajah&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 </div>
 
-## 🎮 Fun Elements
-
+## 🎮 Pacman Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/snake.svg" alt="Snake animation">
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
