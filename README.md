@@ -54,9 +54,9 @@
 
 ## 🎮 Fun Elements
 
-<h2 align="left">pacman & snake</h2>
+<img src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph-dark.svg">
@@ -64,11 +64,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/okeeajah/count.svg?"  />
-</div>
+###
 
 ## 📫 How to reach me
 
