@@ -72,7 +72,7 @@
 
 ## 📫 How to reach me
 
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/okeeajah">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
