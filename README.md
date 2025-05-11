@@ -46,12 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
