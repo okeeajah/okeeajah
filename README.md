@@ -42,6 +42,31 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=okeeajah&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
+##pacman and snake
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/okeeajah/count.svg?"  />
+</div>
+
+###
+
+
 ## 📫 How to reach me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/okeeajah)
