@@ -42,7 +42,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=okeeajah&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-##pacman and snake
+## pacman and snake
 
 <br clear="both">
 
@@ -59,13 +59,6 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/okeeajah/count.svg?"  />
-</div>
-
-###
-
 
 ## 📫 How to reach me
 
