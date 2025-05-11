@@ -48,8 +48,6 @@
 
 ## 🎮 Fun Elements
 
-<h2 align="left">pacman & snake</h2>
-
 <br clear="both">
 
 <picture>
