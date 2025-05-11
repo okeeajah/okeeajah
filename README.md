@@ -42,9 +42,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=okeeajah&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-## pacman and snake
-
-<p align="left">Hello World!!</p>
+<h2 align="left">pacman & snake</h2>
 
 ###
 
@@ -55,6 +53,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/okeeajah/okeeajah/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/okeeajah/count.svg?"  />
+</div>
 
 ###
 
