@@ -38,12 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeeajah&layout=compact&theme=radical&langs_count=8" alt="okeeajah's top langs">
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=okeeajah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=okeeajah&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 📊 Activity Graph
 
 [![okeeajah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=okeeajah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,6 +47,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=okeeajah&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ## 🎮 Fun Elements
+
+<h2 align="left">pacman & snake</h2>
 
 <br clear="both">
 
